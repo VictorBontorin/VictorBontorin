@@ -1,23 +1,43 @@
-# João Victor Bontorin
+# Hi, I'm João Victor Bontorin 👋
 
-Software Engineering student focused on Backend Development.
+### Backend Developer | Software Engineering Student
 
-I build backend applications and APIs using Go, Python, Java,
-PostgreSQL and Docker.
+I'm a Software Engineering student with a technical background in
+Systems Development, focused on backend development and building
+reliable software.
 
-## Tech Stack
+I work primarily with:
 
 - Go
 - Python
 - Java
+- JavaScript
 - PostgreSQL
 - REST APIs
 - Docker
 - Git
 
-## Currently Learning
+## 🚀 Featured Projects
 
-- Backend Architecture
-- Distributed Systems
-- Cloud Technologies
-- Go
+### Wager Backend
+Backend system built with Go and PostgreSQL, focusing on transactional
+operations, concurrency, idempotency, ledger consistency and event-driven
+architecture.
+
+### REST API in Go
+REST API built with Go, Chi and PostgreSQL, focused on backend fundamentals,
+HTTP APIs and database integration.
+
+### Cloudflare OAuth
+OAuth authentication project integrating Google and GitHub, deployed
+using Cloudflare Pages.
+
+## 🎯 Currently
+
+- Improving my backend development skills with Go
+- Studying software architecture and distributed systems
+- Building projects involving APIs, databases and cloud technologies
+
+## 💼 Interested in
+
+Backend Development • Software Engineering • Go • APIs • Databases • Cloud
